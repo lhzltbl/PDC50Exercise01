@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC50Exercise01", "PDC50Exercise01.csproj", "{DA33C872-32BF-4A50-8426-B56E1923BFDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA33C872-32BF-4A50-8426-B56E1923BFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA33C872-32BF-4A50-8426-B56E1923BFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA33C872-32BF-4A50-8426-B56E1923BFDE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DA33C872-32BF-4A50-8426-B56E1923BFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA33C872-32BF-4A50-8426-B56E1923BFDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA33C872-32BF-4A50-8426-B56E1923BFDE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3A31102-DEAE-4582-A2C0-0A698F1ABA38}
+	EndGlobalSection
+EndGlobal

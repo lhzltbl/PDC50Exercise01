@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\BSIT4A_TABUAL\\PDC50Exercise01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA33C872-32BF-4A50-8426-B56E1923BFDE}|PDC50Exercise01.csproj|c:\\users\\user\\documents\\bsit4a_tabual\\pdc50exercise01\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA33C872-32BF-4A50-8426-B56E1923BFDE}|PDC50Exercise01.csproj|solutionrelative:newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA33C872-32BF-4A50-8426-B56E1923BFDE}|PDC50Exercise01.csproj|c:\\users\\user\\documents\\bsit4a_tabual\\pdc50exercise01\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DA33C872-32BF-4A50-8426-B56E1923BFDE}|PDC50Exercise01.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\BSIT4A_TABUAL\\PDC50Exercise01\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "NewPage1.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\BSIT4A_TABUAL\\PDC50Exercise01\\NewPage1.xaml",
+              "RelativeToolTip": "NewPage1.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-14T02:17:28.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\BSIT4A_TABUAL\\PDC50Exercise01\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\User\\Documents\\BSIT4A_TABUAL\\PDC50Exercise01\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-08-14T02:16:41.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

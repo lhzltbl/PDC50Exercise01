@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PDC50Exercise01.NewPage1"
+             Title="TABUAL, Lhizel N.">
+    <VerticalStackLayout Padding="10">
+        <Image
+            Source="auf_logo.png"
+            HeightRequest="185"
+            Aspect="AspectFit"/>
+        <Label 
+            Text="Welcome to Angeles University Foundation!"
+            HorizontalTextAlignment="Center"
+            FontSize="Header"
+            FontAttributes="Bold"
+            TextColor="Green"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label 
+            Text="Kindly fill out the needed information below."/>
+
+        <Label
+            Text="First Name:"
+            FontAttributes="Bold"
+            Padding="10" />
+        <Entry
+            Placeholder="Ex.: Lhizel"
+/>
+
+        <Label
+            Text="Middle Name:"
+            FontAttributes="Bold"
+            Padding="10" />
+        <Entry
+            Placeholder="Ex.: Nolasco" />
+
+        <Label
+            Text="Last Name:"
+            FontAttributes="Bold"
+            Padding="10" />
+        <Entry
+            Placeholder="Ex.: Tabual" />
+
+        <Label
+            Padding="10"/>
+
+        <Button
+            Text="Submit"
+            FontAttributes="Bold"
+            HorizontalOptions="Center"
+            />
+    </VerticalStackLayout>
+</ContentPage>
